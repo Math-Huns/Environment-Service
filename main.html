@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>우리 집 생태계</title>
+        <style>
+            header {
+                height: 200px;
+            }
+            .map {
+                width: 100%;
+            }
+        </style>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script>
+            $(document).ready(function(){
+            $(".map").load("map.html");
+        });
+        </script>
+    </head>
+    <body>
+        <header>
+            <h1>우리 집 주변 생태계 지도 제공 서비스</h1>
+        </header>
+        <div id="map"></div>
+    </body>
+</html>
