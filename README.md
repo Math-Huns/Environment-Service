@@ -64,5 +64,4 @@
 
 <img src = "https://user-images.githubusercontent.com/54921730/107648544-cd121600-6cbf-11eb-8fe9-64aec9d5ff61.png" width = 1000 height = 400/>
 
-<img src = "https://user-images.githubusercontent.com/54921730/107647981-2168c600-6cbf-11eb-893e-3b5475ea3276.png" width = 1000 height = 400/>
-
+<img src = "https://user-images.githubusercontent.com/51190752/107868979-a7a62780-6ecc-11eb-9bc0-f22bba459586.jpg" width = 1000 height = 400/>
